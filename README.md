@@ -75,5 +75,5 @@ I'm a passionate 22-year-old tech enthusiast from Sri Lanka 🇱🇰, currently 
 
 ## ✨ **Get in Touch**  
 - 💼 [Fiverr Profile](#) | [Upwork Profile](#)  
-- 📧 **Email:** ravindu@example.com  
-- 💻 **Portfolio:** [Your Portfolio Link](#)  
+- 📧 **Email:** ravinduvinushasahan@gmail.com 
+- 💻 **Portfolio:** | https://github.com/Ravindu-VS/ravinduvinusha.github.io.git
