@@ -79,6 +79,17 @@ class RavinduVinusha:
         print("I don't just train models. I deploy them where it counts — on the edge.")
 ```
 
+## 📄 Professional Summary
+
+Computer Engineering undergraduate specializing in applied machine learning, natural language processing, embedded AI, and robotics.
+I build end-to-end systems spanning local LLM apps, RAG pipelines, computer vision, reinforcement learning, and edge inference on ESP32 and Raspberry Pi.
+My current focus is on scalable model training, autonomous perception, and deployable AI systems that run reliably in real-world environments.
+
+## 🎓 Education
+
+- General Sir John Kotelawala Defence University, BSc (Hons) in Computer Engineering, Jan 2023 – Aug 2027
+- Badulla Central College, GCE Advanced Level - Physical Science Stream (BBC), 2020 – 2021
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -278,17 +289,19 @@ If the snake workflow returns a 403, add a repository secret named `GH_PAT` with
 
 ## 🌐 Let's Connect
 
-*I'm actively seeking AI & ML internship opportunities — let's build something intelligent.*
+*AI & Machine Learning Engineering Intern based in Moratuwa, Sri Lanka, open to internships in ML, computer vision, NLP, embedded AI, and robotics.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinusha-rathnayaka)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://ravinduvinusha.github.io)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravinduvinushasahan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinusha_Rathnayaka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinusha-rathnayaka)
+[![GitHub](https://img.shields.io/badge/GitHub-Ravindu--VS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravindu-VS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Open_Website-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://ravinduvinusha.github.io)
+[![Email](https://img.shields.io/badge/Email-ravinduvinushasahan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravinduvinushasahan@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B94%2070%20315%206060-00D9FF?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+94703156060)
 
 <br/>
 
-**Sri Lanka 🇱🇰 · Open to Remote & On-Site Opportunities**
+**Moratuwa, Sri Lanka · Open to Remote & On-Site Opportunities**
 
 </div>
 
