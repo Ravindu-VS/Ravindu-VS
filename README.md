@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:020817,50:00B4D8,75:7209B7,100:0D1117&height=240&section=header&text=Ravindu%20Vinusha&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Edge%20Intelligence%20%7C%20AI%20Robotics&descAlignY=60&descSize=18&descColor=00D9FF&v=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:020817,50:00B4D8,75:7209B7,100:0D1117&height=240&section=header&text=Ravindu%20Vinusha&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Edge%20Intelligence%20%7C%20AI%20Robotics&descAlignY=60&descSize=18&descColor=00D9FF&v=4"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     TYPING ANIMATION                           -->
@@ -173,7 +173,7 @@ class RavinduVinusha:
 
 <br/>
 
-<p><strong>Top Languages</strong>: Python · C++ · TypeScript · JavaScript · Bash</p>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu-VS&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=F8F8F2&langs_count=8&cache_seconds=86400&v=4"/>
 
 </div>
 
@@ -187,13 +187,7 @@ class RavinduVinusha:
 
 ## 🏆 Trophies
 
-<table>
-  <tr>
-    <td align="center">🏆 9 end-to-end AI/ML projects</td>
-    <td align="center">📄 KDU IRC 2026 paper submitted</td>
-    <td align="center">🟢 Open to AI & ML internships</td>
-  </tr>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=Ravindu-VS&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&v=4"/>
 
 </div>
 
