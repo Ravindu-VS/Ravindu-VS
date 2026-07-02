@@ -214,6 +214,8 @@ Two animated sections need a one-time GitHub Actions setup before they render au
 1. Snake animation: add [`.github/workflows/snake.yml`](.github/workflows/snake.yml) and run the workflow once to generate the SVGs in the `output` branch.
 2. 3D contribution calendar: set up the action from [github.com/yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) and run it once to generate `profile-3d-contrib/profile-night-rainbow.svg`.
 
+If the snake workflow returns a 403, add a repository secret named `GH_PAT` with write access and rerun it.
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
