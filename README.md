@@ -169,11 +169,11 @@ class RavinduVinusha:
 ## 📊 GitHub Intelligence
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ravindu-VS&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00D9FF&text_color=F8F8F2&count_private=true&rank_icon=github&cache_seconds=86400&v=3"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=Ravindu-VS&hide_border=true&background=0D1117&stroke=00D9FF&ring=7209B7&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=7209B7&dates=FFFFFF"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Ravindu-VS&hide_border=true&background=0D1117&stroke=00D9FF&ring=7209B7&fire=FF6B6B&currStreakLabel=00D9FF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=F8F8F2"/>
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu-VS&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=F8F8F2&langs_count=8&cache_seconds=86400&v=3"/>
+<p><strong>Top Languages</strong>: Python · C++ · TypeScript · JavaScript · Bash</p>
 
 </div>
 
@@ -187,7 +187,13 @@ class RavinduVinusha:
 
 ## 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ravindu-VS&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<table>
+  <tr>
+    <td align="center">🏆 9 end-to-end AI/ML projects</td>
+    <td align="center">📄 KDU IRC 2026 paper submitted</td>
+    <td align="center">🟢 Open to AI & ML internships</td>
+  </tr>
+</table>
 
 </div>
 
