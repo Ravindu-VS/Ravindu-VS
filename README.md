@@ -28,7 +28,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinusha-rathnayaka)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://ravinduvinusha.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://ravindu-vs.github.io/ravinduvinusha.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravinduvinushasahan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravindu-VS)
 
@@ -314,7 +314,7 @@ If the snake workflow returns a 403, add a repository secret named `GH_PAT` with
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinusha_Rathnayaka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinusha-rathnayaka)
 [![GitHub](https://img.shields.io/badge/GitHub-Ravindu--VS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravindu-VS)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Open_Website-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://ravinduvinusha.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Open_Website-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://ravindu-vs.github.io/ravinduvinusha.github.io/)
 [![Email](https://img.shields.io/badge/Email-ravinduvinushasahan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravinduvinushasahan@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B94%2070%20315%206060-00D9FF?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+94703156060)
 
