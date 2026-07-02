@@ -180,12 +180,31 @@ My current focus is on scalable model training, autonomous perception, and deplo
 
 ## 📊 GitHub Intelligence
 
-<img width="49%" src="https://ravindu-4ny32w2j1-ravindu-vs-projects.vercel.app/api?username=Ravindu-VS&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00D9FF&text_color=F8F8F2&count_private=true&rank_icon=github&cache_seconds=86400&v=2"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=Ravindu-VS&hide_border=true&background=0D1117&stroke=00D9FF&ring=7209B7&fire=FF6B6B&currStreakLabel=00D9FF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=F8F8F2"/>
-
-<br/>
-
-<img width="42%" src="https://ravindu-4ny32w2j1-ravindu-vs-projects.vercel.app/api/top-langs/?username=Ravindu-VS&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=F8F8F2&langs_count=8&cache_seconds=86400&v=2"/>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>📈 Stats Snapshot</h3>
+      <p><strong>Total Contributions:</strong> 142</p>
+      <p><strong>Current Streak:</strong> 2</p>
+      <p><strong>Longest Streak:</strong> 3</p>
+      <p><strong>Tracked Range:</strong> Jan 24, 2023 - Present</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🔥 Current Focus</h3>
+      <p>Building production AI systems</p>
+      <p>LLMs · RAG · NLP · Computer Vision</p>
+      <p>Edge AI · TinyML · ESP32 · Raspberry Pi</p>
+      <p>ROS 2 · Autonomous Robotics · Firmware</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>💻 Top Languages</h3>
+      <p>Python · C++ · TypeScript</p>
+      <p>JavaScript · Bash</p>
+      <p>FastAPI · PyTorch · Next.js</p>
+      <p>Scikit-learn · OpenCV · Docker</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
