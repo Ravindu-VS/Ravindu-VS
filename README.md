@@ -169,12 +169,12 @@ class RavinduVinusha:
 
 ## 📊 GitHub Intelligence
 
-<img width="49%" src="https://ravindu-stats.vercel.app/api?username=Ravindu-VS&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00D9FF&text_color=F8F8F2&count_private=true&rank_icon=github&cache_seconds=86400&v=1"/>
+<img width="49%" src="https://ravindu-4ny32w2j1-ravindu-vs-projects.vercel.app/api?username=Ravindu-VS&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00D9FF&text_color=F8F8F2&count_private=true&rank_icon=github&cache_seconds=86400&v=2"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=Ravindu-VS&hide_border=true&background=0D1117&stroke=00D9FF&ring=7209B7&fire=FF6B6B&currStreakLabel=00D9FF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=F8F8F2"/>
 
 <br/>
 
-<img width="42%" src="https://ravindu-stats.vercel.app/api/top-langs/?username=Ravindu-VS&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=F8F8F2&langs_count=8&cache_seconds=86400&v=1"/>
+<img width="42%" src="https://ravindu-4ny32w2j1-ravindu-vs-projects.vercel.app/api/top-langs/?username=Ravindu-VS&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=F8F8F2&langs_count=8&cache_seconds=86400&v=2"/>
 
 </div>
 
