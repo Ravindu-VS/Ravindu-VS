@@ -4,13 +4,13 @@
 <!--                    ANIMATED HEADER BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:020817,50:00B4D8,75:7209B7,100:0D1117&height=240&section=header&text=Ravindu%20Vinusha&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=🤖%20AI%20%26%20ML%20Engineer%20%7C%20⚡%20Edge%20Intelligence%20%7C%20🦾%20AI%20Robotics&descAlignY=60&descSize=18&descColor=00D9FF&v=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:020817,50:00B4D8,75:7209B7,100:0D1117&height=240&section=header&text=Ravindu%20Vinusha&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Edge%20Intelligence%20%7C%20AI%20Robotics&descAlignY=60&descSize=18&descColor=00D9FF&v=3"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     TYPING ANIMATION                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=720&lines=Building+Production-Grade+AI+Systems+🚀;LLMs+%7C+RAG+Pipelines+%7C+NLP+%7C+Computer+Vision+🧠;Edge+AI+%7C+TinyML+%7C+ESP32+%7C+Raspberry+Pi+⚡;ROS+2+%7C+Autonomous+Robotics+%7C+Firmware+🦾;9+End-to-End+AI%2FML+Projects+Shipped+✅;Open+to+AI+%26+ML+Internships+🇱🇰&v=2" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=720&lines=Building+Production-Grade+AI+Systems;LLMs+%7C+RAG+Pipelines+%7C+NLP+%7C+Computer+Vision;Edge+AI+%7C+TinyML+%7C+ESP32+%7C+Raspberry+Pi;ROS+2+%7C+Autonomous+Robotics+%7C+Firmware;9+End-to-End+AI%2FML+Projects+Shipped;Open+to+AI+%26+ML+Internships&v=3" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -121,16 +121,16 @@ class RavinduVinusha:
 ## 🛠️ Tech Stack
 
 ### 🧠 AI & ML Core
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,flask&perline=6&theme=dark&v=2"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,flask&perline=6&theme=dark&v=3"/>
 
 ### ⚡ Edge AI & Embedded Systems
-<img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi,linux,cmake,bash&perline=6&theme=dark&v=2"/>
+<img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi,linux,cmake,bash&perline=6&theme=dark&v=3"/>
 
 ### 🌐 Full Stack (Supporting)
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,js,mysql&perline=6&theme=dark&v=2"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,js,mysql&perline=6&theme=dark&v=3"/>
 
 ### 🔧 Tools & Infrastructure
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws&perline=6&theme=dark&v=2"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws&perline=6&theme=dark&v=3"/>
 
 </div>
 
@@ -168,12 +168,12 @@ class RavinduVinusha:
 
 ## 📊 GitHub Intelligence
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ravindu-VS&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7209B7&text_color=FFFFFF&count_private=true&rank_icon=github&cache_seconds=86400"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ravindu-VS&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00D9FF&text_color=F8F8F2&count_private=true&rank_icon=github&cache_seconds=86400&v=3"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=Ravindu-VS&hide_border=true&background=0D1117&stroke=00D9FF&ring=7209B7&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=7209B7&dates=FFFFFF"/>
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu-VS&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&cache_seconds=86400"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravindu-VS&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=F8F8F2&langs_count=8&cache_seconds=86400&v=3"/>
 
 </div>
 
