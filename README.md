@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER BANNER                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">Ravindu Vinusha</h1>
+<h1 align="center">Ravindu Sahan</h1>
 <p align="center">AI & ML Engineer | Edge Intelligence | AI Robotics</p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
